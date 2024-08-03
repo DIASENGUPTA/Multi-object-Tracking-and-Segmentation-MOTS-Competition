@@ -1,6 +1,0 @@
-[submodule "MaskDINO"]
-	path = MaskDINO
-	url = https://github.com/IDEA-Research/MaskDINO.git
-[submodule "pcan"]
-	path = pcan
-	url = https://github.com/SysCV/pcan.git
