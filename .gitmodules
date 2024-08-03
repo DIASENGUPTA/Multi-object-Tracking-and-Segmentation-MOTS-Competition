@@ -4,3 +4,6 @@
 [submodule "MaskDINO_MOTS"]
 	path = MaskDINO
 	url = https://github.com/IDEA-Research/MaskDINO.git
+[submodule "yolov8_tracking"]
+	path = yolov8_tracking
+	url = https://github.com/hulkwork/yolov8_tracking.git
