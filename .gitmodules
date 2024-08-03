@@ -1,0 +1,6 @@
+[submodule "pcan_MOTS"]
+	path = pcan
+	url = https://github.com/SysCV/pcan.git
+[submodule "MaskDINO_MOTS"]
+	path = MaskDINO
+	url = https://github.com/IDEA-Research/MaskDINO.git
