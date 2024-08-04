@@ -1,0 +1,5 @@
+name: pcan_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /projectnb/rlvn/students/ksg25/new_tracking/envs/pcan_env
